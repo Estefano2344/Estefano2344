@@ -1,8 +1,6 @@
 
 ### Hey,[Estefano here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Anime GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhhZzA0ZWlwMmN3NjFsZDFuMms1Z3hqcHdyOWpzNXBtOGZ0amdveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif)
-
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/estefano-proa%C3%B1o-738868136/)](https://www.linkedin.com/in/estefano-proa%C3%B1o-738868136/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Estefano2344" alt="Estefano2344" /> </p>
